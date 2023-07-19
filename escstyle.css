@@ -1,0 +1,24 @@
+tr th {
+    background-color: #5f9ea0;
+    padding: 10px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+tr td {
+    padding: 9px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+table {
+    margin: auto;
+    width: 50%;
+    border-style: none;
+    border-spacing: 0;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 12px;
+    border: 2px solid rgb(71, 71, 71);
+
+}
